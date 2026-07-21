@@ -32,12 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/legitsee/legitsee/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=legitsee.legitsee&"  />
 </div>
@@ -48,10 +42,10 @@
 
 ###
 
-<img data-importer="image" align="right" height="149" src="https://imgs.search.brave.com/NTSk1s9uCrCMSDDQqnd-9zf2zrbILeO6Cn3oUBSEHwM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2ViYXNzZXRzY2Ru/LmNvbS9hdmlyYS9w/cm9kLWJsb2cvd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMDgv/YXZpcmFfYmxvZ19t/ci5yb2JvdC1oZWFk/ZXItMzYweDI3MC5q/cGc"  />
+<img data-importer="image" align="right" height="162" src="https://imgs.search.brave.com/NTSk1s9uCrCMSDDQqnd-9zf2zrbILeO6Cn3oUBSEHwM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/d2ViYXNzZXRzY2Ru/LmNvbS9hdmlyYS9w/cm9kLWJsb2cvd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMDgv/YXZpcmFfYmxvZ19t/ci5yb2JvdC1oZWFk/ZXItMzYweDI3MC5q/cGc"  />
 
 ###
 
-<img data-importer="image" align="left" height="138" src="https://imgs.search.brave.com/4PIKl5K91tGtc-JIiwWkgvyFxEC4FWj4408WTi8QaAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9QeXRob24tTG9n/by1QTkctSW1hZ2Uu/cG5n"  />
+<img data-importer="image" align="left" height="140" src="https://imgs.search.brave.com/4PIKl5K91tGtc-JIiwWkgvyFxEC4FWj4408WTi8QaAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9QeXRob24tTG9n/by1QTkctSW1hZ2Uu/cG5n"  />
 
 ###
