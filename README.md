@@ -52,6 +52,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="149" src="https://imgs.search.brave.com/4PIKl5K91tGtc-JIiwWkgvyFxEC4FWj4408WTi8QaAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9QeXRob24tTG9n/by1QTkctSW1hZ2Uu/cG5n"  />
+<img data-importer="image" align="left" height="138" src="https://imgs.search.brave.com/4PIKl5K91tGtc-JIiwWkgvyFxEC4FWj4408WTi8QaAY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NS9QeXRob24tTG9n/by1QTkctSW1hZ2Uu/cG5n"  />
 
 ###
